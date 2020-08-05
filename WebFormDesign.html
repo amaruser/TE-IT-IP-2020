@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body
+{
+margin-left:3cm;
+margin-right:17cm;
+color:green;
+}
+</style>
+</head>
+<body bgcolor="sky-blue">
+<h2>Form Basic Elements</h1>
+<form action="#" method="post">
+<fieldset>
+<legend>Input Box elements</legend>
+<p>
+<label for="input_text">Text:</label>
+<input id="input_text" type="text" placeholder="Type your name here" required>
+</p>
+<p>
+<label for="input_email">Email:</label>
+<input id="input_email" type="email" placeholder="you enter eid here" required>
+</p>
+<p>
+<label for="input-password">Password:</lable>
+<input id="input_password" type="password" placeholder="Password will go here" 
+maxlength="8">
+</p>
+
+<p>
+<label for="input-number">Number:</lable>
+<input id="input_number" type="number" placeholder="numbers only">
+</p>
+
+<p> Education completed:<input type="text" list="edulevel" name="education"></p>
+<datalist id="edulevel">
+<option value="High school">
+<option value="Bachelors Degree">
+<option value="Masters Degree">
+</datalist>
+
+<p> How old are you:</p>
+<ol>
+<li><label for="age1"><input type="radio" id="age1" name=age value="24">24
+</label></li>
+<li><label for="age2"><input type="radio" id="age2" name=age value="19-23">19-23
+</label></li>
+<li><label for="age3"><input type="radio" id="age3" name=age value="25-34">25-34
+</label></li>
+<li><label for="age4"><input type="radio" id="age4" name=age value="35">35 to 44
+</label></li>
+</ol>
+
+<p> What type of music do ypou like: </p>
+
+<ul>
+<li> <label for="id1"><input type="checkbox" nae="ge" id="id1"
+value="Baj">Bhajan</label></li>
+
+<li> <label for="id2"><input type="checkbox" nae="ge" id="id2"
+value="Krt">Kirtan</label></li>
+
+<li> <label for="id1"><input type="checkbox" nae="ge" id="id1"
+value="Baj">Bhajan</label></li>
+<li> <label for="id1"><input type="checkbox" nae="ge" id="id1"
+value="Baj">Bhajan</label></li>
+
+</ul>
+
+<p> What is your favorite domain:
+<select name="domaions">
+<option>Internet Programming</option>
+<option>AM-4</option>
+<option>CGVR</option>
+<option>No Choice</option>
+</select>
+</p>
+<p>Choose your favourite ice 
+<select name="ice">
+<optgroup label="traditional">
+<option>Vanila</option>
+<option>Chocolate</option>
+</optgroup>
+
+<optgroup label="fancy">
+<option>Vanila1</option>
+<option>Chocolate1</option>
+</optgroup>
+</select>
+</p>
+<p> Upload your resume here:<input type="file"></p>
+<p> SElect your birth date :<input type="date" name="dname" value="1995-01-14">
+</p>
+<p><label> Your favourite color :<input type="color"></label></p>
+<p> <label> Satisfaction (0 t0 10):<input type="range" name="sars" min="0" max=10
+ step=1></label></p>
+ <p><label for="input_url">URL:<label>
+ <input id="input_url" type="url"  placeholder="http://somesite.com"></p>
+
+ <p>SEarch:<input type="search" placeholder="SEarch"></p>
+
+ <p>
+ <textarea name="comments" rows="4" cols="45" placeholder="Leave us a good 
+ comments"></textarea>
+ </p>
+ 
+<p>
+<input type="submit" value="Save Data"> <input type="reset"></p>
+
+</fieldset>
+</form>
+</body>
+</html>
