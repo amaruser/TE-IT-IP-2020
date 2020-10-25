@@ -1,0 +1,318 @@
+Q1. web system architecture is uniforem everywhere?
+yes
+no<-
+
+Q2.Having more number of layers in web system architecture is 
+   advantageous?
+yes<-
+no
+
+Q3.Which of the following is the correct example of url?
+ http://127.0.0.1
+http://127.0.0.1/index.html
+http://www.amarpalwankar.wordpress.com
+all are correct<--
+
+Q4.Is url and uri same?
+yes
+no<-
+
+Q5.DNS servers are used for
+ play a video
+play a audio
+to assign ip address
+to convert/map url into ip address <--
+
+Q6.Which of the following is  correct top level domain?
+you
+me
+we
+com <-
+
+Q7.Can we configure a DNS server for mapping purpose?
+yes<-
+no
+
+Q8.What is protocol used to access web page?
+http<-
+https<-
+ls
+none of above
+
+Q9.What is std port number of http?
+80<-
+90
+100
+110
+
+Q10.What is the long form of http?
+hyper text transfer protocol <-
+hyper teeth took padding
+file transfer protocol
+none of the above
+
+Q11.What protocol is used to download/uploads files from server?
+xml
+json
+dhcp
+ftp<--
+
+Q12.Does ftp has two port numbers?
+yes<-
+no
+
+Q13.What is correct name of GUI based ftp client program to upload files?
+filezilla <-
+chrome
+terminal
+none of above
+
+Q14.What is the use of W3 validators?
+It checks whether a file has error in syntax or not<-
+It is used to design web applications
+It is used to download video files 
+none of above
+
+Q15.To display a button on a web page what statement is used in body tag?
+<input type="file">
+<input type="submit">
+<input type="button">
+none of above <-
+
+Q16.What is the use of value attribute in input tag?
+It displays same value on button<-
+It is for submitting a form
+It is used to send data
+none of above
+
+Q17.Which of the following method is used to send data?
+get<-
+post<-
+delete
+none of above
+
+Q18.What is wrong in following statement?
+<input type="submit" value="SAVE">
+
+No error<-
+input cannot be used
+value is not defined
+SAVE is keyword hence canot be used
+
+Q19.What is the tag name used to display drop-down menu?
+select<-
+option
+input
+none of above
+
+Q20.What is tag used to display text box on the web form?
+<input type="file">
+<input type="text"><-
+<select name="d">
+none of above
+
+Q21.What is the 200 code received from web server indicates ?
+File is found and returned response hence ok<-
+File is missiing hence error
+File moved 
+none of above 
+
+Q22.What is error code 404 represesnts?
+bad request
+file not found<-
+request time out
+internal server error
+
+Q23.HML is a markup language?
+true<-
+false
+
+Q25.Web server is used to ..
+find a web page
+find a web page and return code back to client<-
+to host web sites<-
+none of above
+
+Q26.Web application and web page is same?
+true 
+false<-
+
+Q27. Which of the following is not an example of html tag?
+<p>
+<i>
+<b>
+<z> <-
+
+Q28. To display a table on web form,which of the following
+  html tag is used?
+
+<td>
+<tr>
+<table>
+all of above<-
+
+Q29.frameset tag is used to divide the browser screen into sub window?
+true <-
+false 
+
+Q30.To provide a hyperlink on a web page,which of the tag is used
+<u>
+<li>
+<ul>
+<a> <-
+
+Q31.To display a image on web page ,which of the tag is used?
+<p>
+<marquee>
+<img src="">  <-
+none of the above
+
+Q32.What is correct way to use internal css?
+
+h2
+{
+text-align:center;  <-
+color:red;
+}
+
+
+<h2 style="text-align:center;color:red;">
+
+<link rel="stylesheet" href="extcss.css"> 
+none of above
+
+Q33.What is correct css property used to define font size?
+font-size: 
+font-family:
+font: 
+a and d <-
+
+Q34.Which of the following is incorrect Length unit in css>
+cm
+mm
+in
+pts <--
+
+Q35.Which of the selector select all the elements?
+* <-
+h1 > h2
+h1+h2
+none of above
+
+Q36.To display a video on web page ,which tag is used?
+<video src="GitHubRepository.mp4"> <--
+<audio src="GitHubRepository.mp4">
+<img src="GitHubRepository.mp4">
+none opf above
+
+Q37.To play video automatically ,which attributes is used>
+
+<audio src="relaxSongs.mp3" controls="controls" autoplay loops preload="auto" autobuffer>  <--
+<source src="relaxSongs.mp3" type="audio/mp3">
+<source src="relaxSongs.ogg" type="audio/ogg">
+none of above
+
+Q38. To draw 2D canvas,which is correct?
+getContext("2d") <-
+getContext("3d")
+getContext("1d")
+none of above
+
+Q39. To draw an arc using canvas,what is used?
+Arc
+arc <-
+ARC
+none of above
+
+Q40.To draw a rectangle,whic is used?
+myc.strokeRect(20,80,130,130);  <-
+myc.arc(200,205,80,start_angle,end_angle, true);
+myc.lineTo(280, 203);
+none of above 
+
+Q41.<canvas id="canvas" width="700" height="700">
+Sorry-Canvas is not supported 
+</canvas>
+When does the Sorry line be displayed?
+
+When there is no support for  canvas <--
+When we run it on linux
+when we run it on windows 
+none of above
+
+Q42.To write a javascript code,what to use ion head tag?
+<script type="text/javascript">
+<script type="text/css">
+<script>
+a and d <-
+
+Q43. Whic of the following in incorrect javascript event?
+
+onkeyup
+onclick
+ommouseout
+ontouch <-
+
+Q44.Is the transition and transmission same?
+true
+false<-
+
+Q45.Whic of the following is not an exampe of timing function used to in transition>
+
+ease-out
+ease-in
+linear
+down <-
+
+Q46.To add animation,which is used?
+@keyframe rule
+@keyframes rule <-
+@keyframes rules
+none of abnove
+
+Q47.animation-iteration-count proprty is used to 
+How many times it sholud repeat  <--
+The manner in which it should acclerate
+Which animation to use
+none of above 
+
+Q48.To make a request using ajax ,which class is used>
+ XMLHttpRequest <-
+XmlHttpRequest
+XMLHTTRequest 
+none of above
+
+Q49.What is wrong in following JSON file?
+{
+
+   "class":"TE";
+    "sub":"IP";
+    "lect":"19 0ct 2020"
+  }
+
+, shoud be used instead of ;  <--
+
+full stop is missing
+
+[ shoud be used instead of {
+
+none of any
+
+Q50.mashup is used to 
+
+shows a single service by combining several services from third parties  <--
+just to replace a server side programming
+just to replace client side programming
+none of any
+
+
+
+
+
+
+
+
+
+
+
+
