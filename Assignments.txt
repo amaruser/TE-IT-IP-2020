@@ -1,0 +1,16 @@
+Assignment No:01
+
+1-Write a note and code for html and html5 tags?
+2-What are the types of css?Write an example of it?
+3-Write a html code to display login registration form(Add most of the web elements)
+4-Write a java script code to validate users data like whether user has entered all data in a web form or not(Assume suitable form)
+5-Write a note on window object used in javascript?
+
+
+Assignment No:02
+
+1-What AJAX and how it is different that traditional web application?
+2-Write a sample code using AJAX technology(Assume suitable task)
+3-Write a php code to save students details in mysql(Assume name,mobile number and email id )
+4-Write a php code to track user's activity using session?
+5-Write a note on Django applications?Write varies files and their significances?
