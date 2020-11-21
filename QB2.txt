@@ -1,0 +1,175 @@
+Q1. Which of the following is the example of server side programming language?
+javascript
+css
+html
+php
+
+Q2.Can we see source code of php file on client computer if it is physically separated?
+
+yes
+no
+
+Q3.If the web server is running on port no 8081 and php file called as run.php is kept in /var/www/html/teit directory on linux,how will you run it on browser(What url will you type?)
+
+http://127.0.0.1/teit/run.php
+http://127.0.0.1:80/teit/run.php
+http://127.0.0.1:8081/run.php
+http://127.0.0.1:8081/teit/run.php
+
+Q4.Which method of HTTP has no limit on size of data?
+get
+post
+delete
+add
+
+Q5.Can we mix/add html code in php file by following rules?
+yes
+no
+
+Q6.Using php code,we develop ... type of web applications?
+static
+dynamic
+
+Q7. A line in php file
+   $username=$_POST['txt1']; indicates what?
+
+user want to read a username which is entered on web form in a text box with name txt1?
+
+user want to write a username which is entered on web form in a text box with name txt1?
+
+user want to insert a username which is entered on web form in a text box with name txt1?
+
+user want to delete a username which is entered on web form in a text box with name txt1?
+
+Q8.To print text in php,which of the statements are used?
+
+echo
+print
+display
+System.out.println()
+
+Q9.foreach($_POST['choices'] AS $choice)  ,what it does?
+
+It extracts all the values of selections made by user on web form with 
+ checkboxes.
+It extracts all the values of selections made by user on web form with 
+ textboxes.
+It extracts all the values of selections made by user on web form with 
+ radio buttons.
+None of any
+
+Q10.date_default_timezone_set("Asia/Calcutta"); What it does?
+It set the time zone Asia/Calcutta" 
+It calls officers from Calcutta
+It send a messages to Calcutta
+None of any
+
+Q11.$Cookie_period=time()+60*60*24*30;What it does?
+
+The variable will hold the value in seconds(60*60*24*30)
+The variable will hold the value in days(60*60*24*30)
+The variable will hold the value in hours(60*60*24*30)
+None of any
+
+Q12.if(isset($_COOKIE['visits'])) ,What is the name of cookie here?
+isset
+COOKIE
+visits
+none of any
+
+Q13.To set cookie in php,what is the correct statement?
+setcookie
+Setcookie
+SetCookie
+none of any
+
+Q14.<?php include 'header.php'; ?> ,what it does?
+
+It just add the lines as it is from header.php
+It just executes the lines from header.php and add its output in current file
+It saves the php code in another file
+None of any
+
+Q15.echo date('dS F '); what is the output of this statement used in php?
+
+25th November
+25nd November
+25 November
+None of any
+
+Q16.To start a session in php ,which of the following statement is used?
+Session_start();
+Session_Start();
+session_start();
+none of any
+
+Q17.To destroy a session in php,which of the following statement is used?
+Session_destroy();
+Session_Start();
+session_destroy();
+none of any
+
+Q18.What is the name of session variable here.$_SESSION['login'] = '';
+
+SESSION
+login
+Login
+session
+
+Q19.To establish a connection to mysql database in php,which function is used?
+
+mysqli_connect()
+mysqli_establish()
+mysqli_join()
+none of any
+
+Q20.To save passwords in encrypted form in mysql database,what is used?
+password_encrypt
+password_concert
+password_hash
+none of any
+
+Q21.Which are the following are the examples of web frameworks?
+Django
+flask
+mathplotlib
+seaborn
+
+Q22.What is the command to create an app in django?
+python3 manage.py createapp myapp1
+python3 manage.py makeapp myapp1
+python3 manage.py startapp myapp1
+none of any
+
+Q23.What is the command to run django application
+python3 manage.py runserver
+python3 Manage.py runserver
+python3 manage.py startserver
+none of any
+
+Q24.Which of the following files are automatically created after creating a django project?
+settings.py
+urls.py
+__init__.py
+all of above
+
+Q25.What is the default port number on which Django server runs?
+8000
+8001
+5000
+5001
+
+Q26.Which of the following lanuage is used to etracts the data from .xml file?
+
+css
+xsl
+http
+none of any
+
+
+ 
+
+
+
+
+
